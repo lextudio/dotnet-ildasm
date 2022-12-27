@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFrameworks>net6.0;net7.0</TargetFrameworks>
     <RootNamespace>DotNet.Ildasm.Tests</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
