@@ -8,15 +8,15 @@
     <FileVersion>$(GitVersion_AssemblySemVer)</FileVersion>
     <Description>Light-weight cross platform IL disassembler tool built in C#.</Description>
     <PackAsTool>true</PackAsTool>
-    <PackageReleaseNotes>https://github.com/lextudio/dotnet-ildasm/releases</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/lextudio/dotnet-ildasm2/releases</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageId>dotnet-ildasm2</PackageId>
     <ToolCommandName>ildasm</ToolCommandName>
     <PackageTags>dotnet-ildasm, ildasm, cil, msil, dotnet-cli, disassembler, dotnet-core</PackageTags>
     <Authors>pjbgf, lextm</Authors>
-    <PackageProjectUrl>https://github.com/lextudio/dotnet-ildasm</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/lextudio/dotnet-ildasm2</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/lextudio/dotnet-ildasm</RepositoryUrl>
+    <RepositoryUrl>https://github.com/lextudio/dotnet-ildasm2</RepositoryUrl>
     <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
   <ItemGroup>
